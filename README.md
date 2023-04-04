@@ -1,1 +1,1 @@
-# SQL
+# SQL Homeworks from course
